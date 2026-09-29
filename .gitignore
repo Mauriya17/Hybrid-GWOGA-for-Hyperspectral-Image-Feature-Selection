@@ -1,0 +1,7 @@
+datasets/
+project_output/
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
